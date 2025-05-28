@@ -50,7 +50,3 @@ I have learnt many languages but the BIG ones are there
 ## 🌎 Find me around the web :
 - [Personal Website :satellite:](https://unicron03.github.io/)
 - [LinkedIn 💼](https://www.linkedin.com/in/enzo-vandepoele-3224ab2b2/)
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdn.svgator.com/images/2022/07/cute-animated-cat-tutorial.gif" alt="Cute cat" height="400" />
-</div>
