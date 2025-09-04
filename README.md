@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Unicron03/count.svg" />
+  <img src="https://profile-counter.deno.dev/Unicron03/count.svg" />
 </p>
 
 ## 🧠 About me
